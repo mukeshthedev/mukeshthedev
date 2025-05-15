@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Anton+SC+&duration=4000&pause=700&color=F7AE18&center=true&vCenter=true&random=false&width=435&lines=Front-end+web+developer+from+india;Coding+Makes+me+feel;Better...;Owner+of+sellcart.io+%F0%9F%92%8E;Thanks+for+checking+my+profile+%F0%9F%92%93;Make+sure+to+follow."
+<img src="https://readme-typing-svg.demolab.com?font=Anton+SC+&duration=4000&pause=700&color=F7AE18&center=true&vCenter=true&random=false&width=435&lines=Front-end+web+developer+from+india;Coding+Makes+me+feel;Self-leaner;eager+to+explore+new+technologies;Better...;Make+sure+to+follow."
 </p>
 
 
