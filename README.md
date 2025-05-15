@@ -1,8 +1,15 @@
 ## Introduction
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Anton+SC+&duration=4000&pause=700&color=F7AE18&center=true&vCenter=true&random=false&width=435&lines=Front-end+web+developer+from+india; Currently+pursuing+BCA+degree;Coding+Makes+me+feel+better;Self-leaner;eager+to+explore+new+technologies;"
-</p>
+  </p>
 
+
+
+
+  <h2>🗣️ About Me:</h2>
+  <p>
+  <br>
+  <strong>I am Mu
 
 
 
