@@ -6,16 +6,16 @@
 
 
 
-  <h2>📝About Me:</h2>
-  <p align="center">
+  <h2>🗣️ About Me:</h2>
+  <p>
   <br>
   <strong>I am Mukesh, a BCA student with a background in computer applications, Your studies likely cover programming languages, database management, web designs and web development.</strong>
   <br><br>
     <strong>Passionate about web development and eager to explore new technologies in the field.</strong>
     <br><br>
-  <strong>💬 Ask me about HTML / CSS / JAVA / C++ / PYTHON / MS OFFICE</strong>
+  <strong> Ask me about HTML / CSS / JAVA / C++ / PYTHON / MS OFFICE</strong>
   <br><br>
-  <strong>📫 How to reach me mukeshselvamani380@gmail.com</strong>
+  <strong>💌 How to reach me mukeshselvamani380@gmail.com</strong>
 </p>
 
 ## Profile Views
