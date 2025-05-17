@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshzzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?mukeshzzz=your-mukeshzzz&color=blue)
+![](https://visitcount.itsvg.in/api?id=mukeshzzz&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
