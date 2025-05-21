@@ -5,15 +5,18 @@
 ## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24"/>
+  <br>LinkedIn
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="24" height="24"/>
+  <br>Instagram
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:your-email@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="24" height="24"/>
+  <br>Email
 </a>
 
 # 💻 Tech Stack:
