@@ -13,7 +13,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-## Profile Views
+<!--## Profile Views
 
 
   <table align="center">
@@ -25,6 +25,6 @@
          <a href="https://github.com/mukeshzzz"> <img src="https://komarev.com/ghpvc/?username=mukeshzzz&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
-  </table>
+  </table-->
 
 
