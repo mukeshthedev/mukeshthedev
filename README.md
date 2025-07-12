@@ -1,4 +1,4 @@
-🙋Introduction :
+<h3>🙋Introduction :</h3>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=089f00&width=435&lines=A+Front-end+Developer+from+india;Currently+pursuing+BCA+degree;Self+learned+front-end+developer;Coding+makes+me+feel+better;Eager+to+explore+new+stuffs..;Make+sure+to+follow" alt="Typing SVG" /></a>
 
 
