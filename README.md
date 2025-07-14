@@ -38,7 +38,7 @@
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshzzz&theme=tokyonight&hide_border=true" width="58%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshzzz&theme=tokyonight&hide_border=true" width="68%" />
 
 ---
 
