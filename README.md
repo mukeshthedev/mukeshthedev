@@ -52,8 +52,8 @@
 
 <div align="center">
 
-💼 <a href="https://mukeshthedev.netlify.app" target="_blank">Portfolio Website</a><br>  
-💃 <a href="https://dancewarriors.netlify.app" target="_blank">Dance Warriors Landing Page</a><br>  
+💼 <a href="https://mukeshthedev.netlify.app" target="_blank">Portfolio Website</a>
+💃 <a href="https://dancewarriors.netlify.app" target="_blank">Dance Warriors Landing Page</a>  
 📚 <a href="https://github.com/mukeshzzz/ai-summarizer" target="_blank">AI Summarizer</a>  
 
 </div>
