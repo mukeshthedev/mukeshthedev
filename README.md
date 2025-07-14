@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Mukesh 👋</h1>
+<h1 align="center">Hey, I'm Mukesh 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F1C40F&center=true&width=435&lines=A+Front-end+Developer+from+India;Currently+pursuing+BCA+degree;Self+learned+Front-end+Developer;Coding+makes+me+feel+better;Eager+to+explore+new+tech;Make+sure+to+follow" alt="Typing SVG" />
@@ -32,7 +32,7 @@
 
 ## 📊 Visitor Count
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mukeshzzz&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </p>
 
