@@ -1,17 +1,9 @@
-<h1 align="left">Hey, I'm Mukesh</h1>
+<h1 align="left">Hey, I'm Mukesh 👋</h1>
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=089f00&width=435&lines=A+Front-end+Developer+from+India;Currently+pursuing+BCA+degree;Self+learned+Front-end+Developer;Coding+makes+me+feel+better;Eager+to+explore+new+tech;Make+sure+to+follow" alt="Typing SVG" />
   </a>
 </p>
-
----
-
-## 🧠 About Me
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind**
-- ⚡ Fun fact: *Coding makes me feel better*
-- 📌 Portfolio: [mukeshthedev.netlify.app](https://mukeshthedev.netlify.app)
 
 ---
 
@@ -40,7 +32,7 @@
 
 ## 📊 Visitor Count
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=mukeshzzz&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </p>
 
@@ -50,11 +42,8 @@
 
 - 💼 [Portfolio Website](https://mukeshthedev.netlify.app)
 - 💃 [Dance Warriors Landing Page](https://dancewarriors.netlify.app)
-- 📒 Notes App with confetti + dark mode
-- 👤 GitHub Profile Viewer (React)
+- 📚 [AI-summarizer](https://github.com/mukeshzzz/ai-summarizer)
 
 ---
-
-> “The best way to predict the future is to create it.” – Abraham Lincoln
 
 <p align="center">Made with ❤️ by Mukesh</p>
