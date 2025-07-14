@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mukesh 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F1C40F&center=true&width=500&lines=A+Front-end+Developer+from+India;Currently+pursuing+BCA+degree;Self-learned+Front-end+Developer;Currently+bulding+my+skills;Passionate+about+web+development;Open+to+collaborations;Coding+makes+me+feel+better;Let's+build+something+amazing;Make+sure+to+follow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F1C40F&center=true&width=500&lines=A+Front-end+Developer+from+India;Currently+pursuing+BCA+degree;Self-learned+Front-end+Developer;Currently+working+on+my+skills;Passionate+about+web+development;Coding+makes+me+feel+better;Let's+build+something+new...;Make+sure+to+follow" alt="Typing SVG" />
   </a>
 </p>
 
