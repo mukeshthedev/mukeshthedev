@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mukesh</h1>
+<h1 align="left">Hey, I'm Mukesh</h1>
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=089f00&width=435&lines=A+Front-end+Developer+from+India;Currently+pursuing+BCA+degree;Self+learned+Front-end+Developer;Coding+makes+me+feel+better;Eager+to+explore+new+tech;Make+sure+to+follow" alt="Typing SVG" />
@@ -7,19 +7,19 @@
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-36a074319) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mukeshhzzz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshselvamani380@gmail.com)
-
----
-
 ## 🧠 About Me
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind**
 - ⚡ Fun fact: *Coding makes me feel better*
 - 📌 Portfolio: [mukeshthedev.netlify.app](https://mukeshthedev.netlify.app)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-36a074319) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mukeshhzzz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshselvamani380@gmail.com)
 
 ---
 
