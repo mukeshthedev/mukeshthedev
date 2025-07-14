@@ -1,4 +1,4 @@
-<!--h1 align="center">Hey, I'm Mukesh 👋</h1>
+<h1 align="center">Hey, I'm Mukesh 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F1C40F&center=true&width=435&lines=A+Front-end+Developer+from+India;Currently+pursuing+BCA+degree;Self+learned+Front-end+Developer;Coding+makes+me+feel+better;Eager+to+explore+new+tech;Make+sure+to+follow" alt="Typing SVG" />
@@ -46,61 +46,9 @@
 
 ---
 
-<p align="center">Made with ❤️ by Mukesh</p-->
+<p align="center">Made with ❤️ by Mukesh</p>
 
-<h1 align="center">Hey, I'm Mukesh 👋</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F1C40F&center=true&width=435&lines=A+Front-end+Developer+from+India;Currently+pursuing+BCA+degree;Self+learned+Front-end+Developer;Coding+makes+me+feel+better;Eager+to+explore+new+tech;Make+sure+to+follow" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-36a074319) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mukeshhzzz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshselvamani380@gmail.com)
-
----
-
-### 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshzzz&theme=tokyonight&hide_border=true" width="48%" />
-
----
-
-### 📊 Visitor Count
-
-<img src="https://komarev.com/ghpvc/?username=mukeshzzz&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-
----
-
-### 🚀 Featured Projects
-
-💼 <a href="https://mukeshthedev.netlify.app" target="_blank">Portfolio Website</a>  
-💃 <a href="https://dancewarriors.netlify.app" target="_blank">Dance Warriors Landing Page</a>  
-📚 <a href="https://github.com/mukeshzzz/ai-summarizer" target="_blank">AI Summarizer</a>  
-
----
-
-❤️ Made with passion by **Mukesh**
 
 </div>
 
