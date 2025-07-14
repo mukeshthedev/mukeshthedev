@@ -48,14 +48,12 @@
 
 ---
 
-### 🚀 Featured Projects
+### 💼Portfolio Website
 
 <div align="center">
 
-<p>💼 <a href="https://mukeshthedev.netlify.app" target="_blank">Portfolio Website</a></p>
-<p>💃 <a href="https://dancewarriors.netlify.app" target="_blank">Dance Warriors Landing Page</a></p>  
-<p>📚 <a href="https://github.com/mukeshzzz/ai-summarizer" target="_blank">AI Summarizer</a></p>
-
+<p>🚀<a href="https://mukeshthedev.netlify.app" target="_blank">mukeshthedev</a></p>
+<p>
 </div>
 
 ---
