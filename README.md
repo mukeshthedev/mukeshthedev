@@ -20,7 +20,7 @@
 <a href="mailto:mukeshselvamani380@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://discord.com/users/1203710531677061150">
+<a  href="https://discord.com/users/1203710531677061150">
   <img src="https://img.shields.io/badge/Discord-Mukesh-5865F2?style=flat&logo=discord&logoColor=white" />
 </a>
 
