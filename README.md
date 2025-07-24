@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Mukesh</h1>
+<h1 align="center">Hey, I'm Mukesh 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&weight=900&pause=1000&color=808080&center=true&width=510&lines=A+Front-end+Developer+from+India;Currently+pursuing+BCA+degree;Self-learned+Front-end+Developer;Currently+working+on+my+skills;Passionate+about+web+development;Coding+makes+me+feel+better;Let's+build+something+new...;Make+sure+to+follow" alt="Typing SVG" />
