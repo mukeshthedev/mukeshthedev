@@ -61,6 +61,6 @@
 
 ---
 
-❤️ Made by <strong>Mukesh</strong>
+❤️ Made by <b>Mukesh</b>
 
 </div>
