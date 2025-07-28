@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pipinthedev&theme=algolia&no-frame=false&no-bg=false&margin-w=3"
+  <img src="https://github-profile-trophy.vercel.app/?username=mukeshzzz&theme=algolia&no-frame=false&no-bg=false&margin-w=3"
 </p>
 
 ---
