@@ -39,8 +39,12 @@
 
 ### 📈 GitHub Status
 
-<p align="center">
+<!--p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshzzz&theme=tokyonight&hide_border=true" style="transform: scaleY(1.2); width: 60%;" />
+</p-->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshzzz&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats">
 </p>
 
 ---
