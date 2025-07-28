@@ -44,7 +44,7 @@
 </p-->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshzzz&theme=grey&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshzzz&theme=default&hide_border=false&background=000000&currStreakLabel=808080&ring=808080&fire=808080&sideNums=808080&sideLabels=808080&dates=808080" alt="GitHub Streak Stats">
 </p>
 
 ---
