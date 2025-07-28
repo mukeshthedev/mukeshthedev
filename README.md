@@ -69,6 +69,4 @@
 
 ---
 
-❤️ Made by <b>Mukesh</b>
-
 </div>
