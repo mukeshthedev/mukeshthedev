@@ -40,6 +40,10 @@
 ### 📈 GitHub Status
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukeshzzz&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshzzz&theme=default&hide_border=false&background=000000&currStreakNum=FFFFFF&currStreakLabel=D3D3D3&sideNums=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3&ring=D3D3D3&fire=D3D3D3" alt="GitHub Streak Stats">
 </p>
 
