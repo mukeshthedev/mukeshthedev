@@ -40,7 +40,7 @@
 ### 📈 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukeshzzz&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukeshzzz&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=D3D3D3&text_color=D3D3D3&icon_color=D3D3D3" alt="GitHub Stats">
 </p>
 
 <p align="center">
