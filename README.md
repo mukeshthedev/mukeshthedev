@@ -57,11 +57,11 @@
 
 ---
 
-### 📊 Visitor Count
+<!--### 📊 Visitor Count
 
 <img src="https://komarev.com/ghpvc/?username=mukeshzzz&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 
-
+-->
 
 ### 🚀 Portfolio Website
 
