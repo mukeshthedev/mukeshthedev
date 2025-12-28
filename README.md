@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Mukesh 👋</h1>
+<h1 align="center">Hello 👋 I'm Mukesh</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&weight=900&pause=1000&color=808081&center=true&width=510&lines=A+Front-end+Developer;Currently+pursuing+BCA+degree;Self-learned+Front-end+Developer;Currently+working+on+my+skills;Passionate+about+web+development;Coding+makes+me+feel+better;Let's+build+something+new...;Make+sure+to+follow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&weight=900&pause=1000&color=808081&center=true&width=510&lines=A+Front-end+Developer;Creative+thinker;A+Final+year+student;I+build+clean+code;and+responsive+UI;Constantly+improving+my+skills;Self-learner;Passionate+about+web+development;Coding+makes+me+feel+better;Let's+build+something+new...;Make+sure+to+follow" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,57 +11,47 @@
 
 ### 🌐 Connect with Me
 
-<!--
-<a href="https://www.linkedin.com/in/mukesh-36a074319">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:mukeshselvamani380@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://discord.com/users/1203710531677061150">
-  <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-</a>
--->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mukesh-36a074319" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mukeshselvamani380@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/1203710531677061150" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <span>
+    <a href="https://www.linkedin.com/in/mukesh-36a074319" target="_blank">
+      <img
+        src="https://skillicons.dev/icons?i=linkedin"
+        alt="LinkedIn"
+        width="45"
+        height="45"
+      />
+    </a>
+  </span>
+
+  <span>
+    <a href="mailto:mukeshselvamani380@gmail.com" target="_blank">
+      <img
+        src="https://skillicons.dev/icons?i=gmail"
+        alt="Email"
+        width="45"
+        height="45"
+      />
+    </a>
+  </span>
+
+  <span>
+    <a href="https://discord.com/users/1203710531677061150" target="_blank">
+      <img
+        src="https://skillicons.dev/icons?i=discord"
+        alt="Discord"
+        width="45"
+        height="45"
+      />
+    </a>
+  </span>
 </p>
 
 ---
 ### 💻 Tech Stack 
 
-<!--
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
--->
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,python,mysql,git,vercel" />
 </p>
 
 ---
@@ -89,8 +79,8 @@
 <!--### 📊 Visitor Count
 
 <img src="https://komarev.com/ghpvc/?username=mukeshzzz&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-
 -->
+
 
 ### 🚀 Portfolio Website
 
