@@ -12,7 +12,7 @@
 
 -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&weight=900&pause=1000&color=808081&center=true&width=510&lines=A+Front-end+Developer;Creative+thinker;A+Final+year+student;I+build+clean+code;and+responsive+UI;Constantly+improving+my+skills;Self-learner;Passionate+about+web+development;Coding+makes+me+feel+better;Let's+build+something+new...;Make+sure+to+follow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&size=25&weight=900&pause=1000&color=808081&center=true&width=510&lines=A+Front-end+Developer;Creative+thinker;A+Final+year+student;I+build+clean+code;and+responsive+UI;Constantly+improving+my+skills;Self-learner;Passionate+about+web+development;Coding+makes+me+feel+better;Let's+build+something+new...;Make+sure+to+follow" alt="Typing SVG" />
   </a>
 </p>
 
