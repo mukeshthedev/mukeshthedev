@@ -31,7 +31,18 @@
 ### 💻 Tech Stack
 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,python,mysql,git,vercel&theme=dark" />
+<!-- <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,python,mysql,git,vercel&theme=dark" /> -->
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="44"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="44"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="44"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="44"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="44"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="44"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="44"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="44"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="44"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="44"/>&nbsp;
+
 
 ---
 
