@@ -39,6 +39,8 @@
 
 <img src="https://skillicons.dev/icons?i=php&theme=dark" />
 
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
+
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 <img src="https://skillicons.dev/icons?i=git&theme=dark" />
