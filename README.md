@@ -35,7 +35,8 @@
 
 <img src="https://skillicons.dev/icons?i=js&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python &theme=dark" />
+<img 
+src="https://skillicons.dev/icons?i=python &theme=dark" />
 
 <img src="https://skillicons.dev/icons?i=php&theme=dark" />
 
