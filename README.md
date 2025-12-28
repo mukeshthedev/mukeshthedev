@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'm Mukesh</h1>
+<!-- <h1 align="center">Hello 👋 I'm Mukesh</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&weight=900&pause=1000&color=808081&center=true&width=510&lines=A+Front-end+Developer;Creative+thinker;A+Final+year+student;I+build+clean+code;and+responsive+UI;Constantly+improving+my+skills;Self-learner;Passionate+about+web+development;Coding+makes+me+feel+better;Let's+build+something+new...;Make+sure+to+follow" alt="Typing SVG" />
@@ -76,11 +76,6 @@
 
 ---
 
-<!--### 📊 Visitor Count
-
-<img src="https://komarev.com/ghpvc/?username=mukeshzzz&style=for-the-badge&color=brightgreen" alt="Profile Views" />
--->
-
 
 ### 🚀 Portfolio Website
 
@@ -90,4 +85,88 @@
 <p>
 </div>
 
-</div>
+</div> -->
+
+
+
+<h1 align="center">Hello 👋 I'm Mukesh</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&weight=700&pause=1000&color=9CA3AF&center=true&width=600&lines=Front-end+Developer;Creative+Thinker;Final+Year+Student;I+Build+Clean+and+Responsive+UI;Constantly+Improving+My+Skills;Self-Learner+%26+Problem+Solver;Passionate+About+Web+Development"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mukesh-36a074319" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="44" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mukeshselvamani380@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="44" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/1203710531677061150" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="44" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,python,mysql,git,vercel&theme=dark" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mukeshzzz&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=E5E7EB&text_color=D1D5DB&icon_color=9CA3AF"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshzzz&background=000000&ring=9CA3AF&fire=9CA3AF&currStreakNum=FFFFFF&currStreakLabel=E5E7EB&sideNums=D1D5DB&sideLabels=D1D5DB&dates=D1D5DB"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mukeshzzz&theme=algolia&no-frame=false&margin-w=8"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 🚀 Portfolio
+
+<p align="center">
+  💼 <a href="https://mukeshthedev.netlify.app" target="_blank">
+    <strong>mukeshthedev.netlify.app</strong>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Always learning, always building.”</i>
+</p>
