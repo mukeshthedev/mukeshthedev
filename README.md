@@ -61,7 +61,7 @@
 ### 🚀 Portfolio
 
 💼 <a href="https://mukeshthedev.netlify.app" target="_blank">
-  <strong>mukeshthedev.netlify.app</strong>
+  <strong>mukeshthedev</strong>
 </a>
 
 
