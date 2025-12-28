@@ -33,10 +33,20 @@
 
 <img src="https://skillicons.dev/icons?i=css&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=python &theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=php&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=git&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,python,mysql,git,vercel&theme=dark" />
+<!--img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,python,mysql,git,vercel&theme=dark" /-->
 
 ---
 
