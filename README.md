@@ -46,7 +46,7 @@
 <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
 
 
-<!--img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,python,mysql,git,vercel&theme=dark" /-->
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,python,mysql,git,vercel&theme=dark" />
 
 ---
 
@@ -57,7 +57,7 @@
   alt="GitHub Stats"
 />
 
-<br />
+<br/>
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshzzz&background=000000&ring=9CA3AF&fire=9CA3AF&currStreakNum=FFFFFF&currStreakLabel=E5E7EB&sideNums=D1D5DB&sideLabels=D1D5DB&dates=D1D5DB"
