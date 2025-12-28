@@ -29,11 +29,11 @@
 
 ### 💻 Tech Stack
 
-img src="https://skillicons.dev/icons?i=html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" />
 
-img src="https://skillicons.dev/icons?i=css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" />
 
-img src="https://skillicons.dev/icons?i=java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" />
 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,java,python,mysql,git,vercel&theme=dark" />
