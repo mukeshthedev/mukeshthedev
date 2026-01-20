@@ -14,7 +14,7 @@
 
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/mukesh-36a074319" target="_blank">
+<a href="https://www.linkedin.com/in/mukeshselvamani" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="44" />
 </a>
 &nbsp;
