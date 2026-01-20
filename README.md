@@ -49,14 +49,14 @@
 ### 📈 GitHub Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=mukeshzzz&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=E5E7EB&text_color=D1D5DB&icon_color=9CA3AF"
+  src="https://github-readme-stats.vercel.app/api?username=mukeshthedev&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=E5E7EB&text_color=D1D5DB&icon_color=9CA3AF"
   alt="GitHub Stats"
 />
 
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshzzz&background=000000&ring=9CA3AF&fire=9CA3AF&currStreakNum=FFFFFF&currStreakLabel=E5E7EB&sideNums=D1D5DB&sideLabels=D1D5DB&dates=D1D5DB"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshthedev&background=000000&ring=9CA3AF&fire=9CA3AF&currStreakNum=FFFFFF&currStreakLabel=E5E7EB&sideNums=D1D5DB&sideLabels=D1D5DB&dates=D1D5DB"
   alt="GitHub Streak"
 />
 
@@ -65,7 +65,7 @@
 ### 🏆 GitHub Achievements
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=mukeshzzz&theme=algolia&no-frame=false&margin-w=10"
+  src="https://github-profile-trophy.vercel.app/?username=mukeshthedev&theme=algolia&no-frame=false&margin-w=10"
   alt="GitHub Trophies"
 />
 
