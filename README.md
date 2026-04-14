@@ -67,7 +67,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=mukeshthedev &theme=algolia&no-frame=false&no-bg=false&margin-w=3"
+  <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=mukeshthedev &theme=algolia&no-frame=false&no-bg=false&margin-w=3">
 </p>
 
 ---
